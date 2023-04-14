@@ -11,9 +11,7 @@ git clone https://github.com/nidhiss29/Javascript_course.git
 
 -or download a zip file
 
-- All folders mentioned as project in commit
-
--Can be deployed using live server
+-All folders mentioned as project in commit can be deployed using live server
 
 -First verify node.js is installed
 
