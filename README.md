@@ -1,5 +1,5 @@
 <h1 align = "center ">Javascript_course </h1>
- # vanilla js tutorial
+<h4 align= "center"> vanilla js tutorial </h4>
 
 # Local Deployment
 
